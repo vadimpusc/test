@@ -1,14 +1,16 @@
 h1 {
     font-size: 290px;
     text-align: center;
+    color: wheat;
 }
 
 h2 {
     font-size: 20px;
     text-align: center;
+    color: wheat;
 }
 
 body {
-    background-color: yellow;
+    background-color: black;
     width: 100%;
 }
